@@ -1,0 +1,5 @@
+print("My first Python class")
+print(60+87)
+print("60+87")
+print("Python a programming language")
+print()
